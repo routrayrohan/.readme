@@ -1,3 +1,2 @@
 
-Personal Repository
 Hi my name is Rohan and presently my skill sets includes Site Reliability Engineer / Cloud Engineer with almost 9 years of experience across AWS and Huawei Cloud (HWS) infrastructure, Linux administration, and production operations for telecom and financial services clients. Skilled in CI/CD pipelines, Kubernetes/OpenShift migrations, infrastructure-as-code with Terraform, and observability via Datadog, Grafana, Kibana, and CloudWatch. Proven track record leading database migrations, mentoring junior engineers, and driving end-to-end release delivery.
